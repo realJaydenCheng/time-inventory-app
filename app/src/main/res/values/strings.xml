@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">时光清单</string>
+    <string name="settings_activity">设置</string>
+    <string name="statistics_activity">统计</string>
+    <string name="inventory_activity">清单</string>
+
+    <string name="timer_activity">时光</string>
+    <string name="default_time">00 : 00 : 00</string>
+    <string name="timer_begin_btn">开始计时</string>
+    <string name="timer_end_btn">结束计时</string>
+
+    <string name="record_activity">记录时光</string>
+    <string name="begin_time_view">记录开始时间：2022/01/01 00:00:00</string>
+    <string name="end_time_view">记录结束时间：2022/01/01 00:00:00</string>
+    <string name="name_text_view">请输入记录标题</string>
+    <string name="save_btn">保存</string>
+    <string name="cancel_btn">取消</string>
+
+    <string name="exit_dialog">确定要退出吗？您的记录还没有保存！</string>
+    <string name="exit_yes">确定</string>
+    <string name="exit_no">取消</string>
+
+    <string name="default_time_view">2022/01/01 00:00:00</string>
+
+    <string name="notification_switch">通知开关</string>
+    <string name="data_cleaner">清除所有数据</string>
+    <string name="clean_dialog">此操作将会清除您的所有时光记录和其他应用数据，且无法恢复，确认要清理吗？</string>
+
+    <string name="settings_main">通用设置</string>
+    <string name="settings_cate">分类管理</string>
+    <string name="add_cate_btn">添加新分类 +</string>
+    <string name="editor_delete">删除</string>
+    <string name="editor_hint">输入分类名</string>
+
+</resources>

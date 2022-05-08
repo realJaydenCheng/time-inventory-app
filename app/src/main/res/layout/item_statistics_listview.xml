@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="2pt">
+
+    <TextView
+        android:id="@+id/sum_time_length"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10pt"
+        android:layout_weight="1"
+        android:text="@string/default_time"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/statistics_item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10pt"
+        android:layout_weight="1"
+        android:gravity="end"
+        android:text="@string/statistics_activity"
+        android:textColor="#000000"
+        android:textSize="24sp" />
+
+</LinearLayout>
